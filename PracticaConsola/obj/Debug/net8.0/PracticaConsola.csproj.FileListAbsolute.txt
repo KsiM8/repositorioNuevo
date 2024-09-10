@@ -1,0 +1,14 @@
+C:\Users\steba\Desktop\CURSO-C#\TEORIA\2-manejo-mensajes-pantalla\Practica-Consola\PracticaConsola\bin\Debug\net8.0\PracticaConsola.exe
+C:\Users\steba\Desktop\CURSO-C#\TEORIA\2-manejo-mensajes-pantalla\Practica-Consola\PracticaConsola\bin\Debug\net8.0\PracticaConsola.deps.json
+C:\Users\steba\Desktop\CURSO-C#\TEORIA\2-manejo-mensajes-pantalla\Practica-Consola\PracticaConsola\bin\Debug\net8.0\PracticaConsola.runtimeconfig.json
+C:\Users\steba\Desktop\CURSO-C#\TEORIA\2-manejo-mensajes-pantalla\Practica-Consola\PracticaConsola\bin\Debug\net8.0\PracticaConsola.dll
+C:\Users\steba\Desktop\CURSO-C#\TEORIA\2-manejo-mensajes-pantalla\Practica-Consola\PracticaConsola\bin\Debug\net8.0\PracticaConsola.pdb
+C:\Users\steba\Desktop\CURSO-C#\TEORIA\2-manejo-mensajes-pantalla\Practica-Consola\PracticaConsola\obj\Debug\net8.0\PracticaConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steba\Desktop\CURSO-C#\TEORIA\2-manejo-mensajes-pantalla\Practica-Consola\PracticaConsola\obj\Debug\net8.0\PracticaConsola.AssemblyInfoInputs.cache
+C:\Users\steba\Desktop\CURSO-C#\TEORIA\2-manejo-mensajes-pantalla\Practica-Consola\PracticaConsola\obj\Debug\net8.0\PracticaConsola.AssemblyInfo.cs
+C:\Users\steba\Desktop\CURSO-C#\TEORIA\2-manejo-mensajes-pantalla\Practica-Consola\PracticaConsola\obj\Debug\net8.0\PracticaConsola.csproj.CoreCompileInputs.cache
+C:\Users\steba\Desktop\CURSO-C#\TEORIA\2-manejo-mensajes-pantalla\Practica-Consola\PracticaConsola\obj\Debug\net8.0\PracticaConsola.dll
+C:\Users\steba\Desktop\CURSO-C#\TEORIA\2-manejo-mensajes-pantalla\Practica-Consola\PracticaConsola\obj\Debug\net8.0\refint\PracticaConsola.dll
+C:\Users\steba\Desktop\CURSO-C#\TEORIA\2-manejo-mensajes-pantalla\Practica-Consola\PracticaConsola\obj\Debug\net8.0\PracticaConsola.pdb
+C:\Users\steba\Desktop\CURSO-C#\TEORIA\2-manejo-mensajes-pantalla\Practica-Consola\PracticaConsola\obj\Debug\net8.0\PracticaConsola.genruntimeconfig.cache
+C:\Users\steba\Desktop\CURSO-C#\TEORIA\2-manejo-mensajes-pantalla\Practica-Consola\PracticaConsola\obj\Debug\net8.0\ref\PracticaConsola.dll
