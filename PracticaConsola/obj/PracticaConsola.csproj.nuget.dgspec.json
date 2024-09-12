@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steba\\Desktop\\CURSO-C#\\TEORIA\\2-manejo-mensajes-pantalla\\Practica-Consola\\PracticaConsola\\PracticaConsola.csproj": {}
+    "C:\\Users\\steba\\Desktop\\CURSO-C#\\TEORIA\\2-manejo-mensajes-pantalla\\practica-consola\\PracticaConsola\\PracticaConsola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steba\\Desktop\\CURSO-C#\\TEORIA\\2-manejo-mensajes-pantalla\\Practica-Consola\\PracticaConsola\\PracticaConsola.csproj": {
+    "C:\\Users\\steba\\Desktop\\CURSO-C#\\TEORIA\\2-manejo-mensajes-pantalla\\practica-consola\\PracticaConsola\\PracticaConsola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steba\\Desktop\\CURSO-C#\\TEORIA\\2-manejo-mensajes-pantalla\\Practica-Consola\\PracticaConsola\\PracticaConsola.csproj",
+        "projectUniqueName": "C:\\Users\\steba\\Desktop\\CURSO-C#\\TEORIA\\2-manejo-mensajes-pantalla\\practica-consola\\PracticaConsola\\PracticaConsola.csproj",
         "projectName": "PracticaConsola",
-        "projectPath": "C:\\Users\\steba\\Desktop\\CURSO-C#\\TEORIA\\2-manejo-mensajes-pantalla\\Practica-Consola\\PracticaConsola\\PracticaConsola.csproj",
+        "projectPath": "C:\\Users\\steba\\Desktop\\CURSO-C#\\TEORIA\\2-manejo-mensajes-pantalla\\practica-consola\\PracticaConsola\\PracticaConsola.csproj",
         "packagesPath": "C:\\Users\\steba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steba\\Desktop\\CURSO-C#\\TEORIA\\2-manejo-mensajes-pantalla\\Practica-Consola\\PracticaConsola\\obj\\",
+        "outputPath": "C:\\Users\\steba\\Desktop\\CURSO-C#\\TEORIA\\2-manejo-mensajes-pantalla\\practica-consola\\PracticaConsola\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
