@@ -5,7 +5,7 @@ Console.Write("apellidos : ");
 string ape = Console.ReadLine();
 Console.Write("edad  : ");
 int edad = int.Parse(Console.ReadLine());
-Console.Write("hobby : ");
+Console.Write("singo zodiacal : ");
 string hob = Console.ReadLine();
 Console.WriteLine("==================INFORMACION=================");
 Console.WriteLine($"eres {nom} {ape}.");
